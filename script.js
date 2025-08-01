@@ -34,7 +34,7 @@ const image =document.createElement("img");
 
 image.src ="pxfuel.com-10_ver_1.jpg";
 
-image.style.width = "70%";
+image.style.width = "100%";
 image.style.height = "100%";
 
 document.getElementById("image").appendChild(image);
